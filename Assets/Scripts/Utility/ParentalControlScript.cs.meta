@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79ddfa1854b57644badc40f819694014
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - domanda: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - rectTransf: {fileID: 224790929588447292, guid: 42efd29427d3a4f1a90fad3fc37954ef,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

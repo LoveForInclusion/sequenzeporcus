@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 182841732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f033e7b15f9c124b3baaa7c27461ec6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84efe8a70a27dc8f7efd484857bb4459
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/batteria_noise.prefab
+Dependencies: []

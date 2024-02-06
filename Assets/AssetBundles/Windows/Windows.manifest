@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1971063327
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: batteria/base
+      Dependencies: {}
+    Info_1:
+      Name: batteria/noise
+      Dependencies: {}
+    Info_2:
+      Name: batteria/final
+      Dependencies: {}
